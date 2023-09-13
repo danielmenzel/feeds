@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-09-13T05:36:30.077Z</updated>
+    <updated>2023-09-13T17:36:46.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_madiface_win_09827.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madiface_win_09827.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madiface_win_09827.zip"/>
+        <updated>2023-09-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>09/13/2023</strong>
+                Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09827.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09827.zip" target="_blank">driver_madiface_win_09827.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
@@ -44,13 +52,5 @@
         <updated>2023-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/21/2023</strong>
                 ADI-2 Series Remote for macOS                                    <a title="adi2dac_remote_mac_11.zip" href="https://rme-audio.de/downloads/adi2dac_remote_mac_11.zip" target="_blank">adi2dac_remote_mac_11.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[avbtool-1.7.0.zip]]></title>
-        <id>https://rme-audio.de/downloads/avbtool-1.7.0.zip</id>
-        <link href="https://rme-audio.de/downloads/avbtool-1.7.0.zip"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/21/2023</strong>
-                AVB Tool Firmware Update                                    <a title="avbtool-1.7.0.zip" href="https://rme-audio.de/downloads/avbtool-1.7.0.zip" target="_blank">avbtool-1.7.0.zip</a>]]></content>
     </entry>
 </feed>
