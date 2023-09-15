@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-09-14T17:36:46.180Z</updated>
+    <updated>2023-09-15T05:36:43.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -12,6 +12,22 @@
         <updated>2023-09-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>09/13/2023</strong>
                 Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09827.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09827.zip" target="_blank">driver_madiface_win_09827.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_hdspe_fx_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/30/2023</strong>
+                Mac OS X Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_mac.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip" target="_blank">fut_hdspe_fx_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_hdspe_fx_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_hdspe_fx_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/30/2023</strong>
+                Windows Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_win.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip" target="_blank">fut_hdspe_fx_win.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
@@ -36,21 +52,5 @@
         <updated>2023-07-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/28/2023</strong>
                 RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12Mic-1.7.0.zip]]></title>
-        <id>https://rme-audio.de/downloads/12Mic-1.7.0.zip</id>
-        <link href="https://rme-audio.de/downloads/12Mic-1.7.0.zip"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/21/2023</strong>
-                12Mic Firmware Update                                    <a title="12Mic-1.7.0.zip" href="https://rme-audio.de/downloads/12Mic-1.7.0.zip" target="_blank">12Mic-1.7.0.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adi2dac_remote_mac_11.zip]]></title>
-        <id>https://rme-audio.de/downloads/adi2dac_remote_mac_11.zip</id>
-        <link href="https://rme-audio.de/downloads/adi2dac_remote_mac_11.zip"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/21/2023</strong>
-                ADI-2 Series Remote for macOS                                    <a title="adi2dac_remote_mac_11.zip" href="https://rme-audio.de/downloads/adi2dac_remote_mac_11.zip" target="_blank">adi2dac_remote_mac_11.zip</a>]]></content>
     </entry>
 </feed>
