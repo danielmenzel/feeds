@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-09-25T05:36:14.534Z</updated>
+    <updated>2023-09-25T17:36:25.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[adi2remote_mac.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/adi2remote_mac.zip</id>
+        <link href="https://www.rme-audio.de/downloads/adi2remote_mac.zip"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>09/25/2023</strong>
+                ADI-2 Series Remote for macOS                                    <a title="adi2remote_mac.zip" href="https://www.rme-audio.de/downloads/adi2remote_mac.zip" target="_blank">adi2remote_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adi2remote_win.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/adi2remote_win.zip</id>
+        <link href="https://www.rme-audio.de/downloads/adi2remote_win.zip"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>09/25/2023</strong>
+                ADI-2 Series Remote for Windows                                    <a title="adi2remote_win.zip" href="https://www.rme-audio.de/downloads/adi2remote_win.zip" target="_blank">adi2remote_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
@@ -20,22 +36,6 @@
         <updated>2023-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>09/21/2023</strong>
                 Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adi2remote_mac_13b3.zip]]></title>
-        <id>https://rme-audio.de/downloads/adi2remote_mac_13b3.zip</id>
-        <link href="https://rme-audio.de/downloads/adi2remote_mac_13b3.zip"/>
-        <updated>2023-09-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/20/2023</strong>
-                ADI-2 Series Remote for macOS                                    <a title="adi2remote_mac_13b3.zip" href="https://rme-audio.de/downloads/adi2remote_mac_13b3.zip" target="_blank">adi2remote_mac_13b3.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adi2remote_win_13b3.zip]]></title>
-        <id>https://rme-audio.de/downloads/adi2remote_win_13b3.zip</id>
-        <link href="https://rme-audio.de/downloads/adi2remote_win_13b3.zip"/>
-        <updated>2023-09-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/20/2023</strong>
-                ADI-2 Series Remote for Windows                                    <a title="adi2remote_win_13b3.zip" href="https://rme-audio.de/downloads/adi2remote_win_13b3.zip" target="_blank">adi2remote_win_13b3.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[driver_madiface_win_09827.zip]]></title>
