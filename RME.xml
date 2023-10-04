@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-10-04T05:36:54.911Z</updated>
+    <updated>2023-10-04T17:37:04.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
+        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
+        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
+        <updated>2023-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/04/2023</strong>
+                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[adi2remote_midi_protocol.zip]]></title>
         <id>https://www.rme-audio.de/downloads/adi2remote_midi_protocol.zip</id>
@@ -44,13 +52,5 @@
         <updated>2023-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>09/25/2023</strong>
                 ADI-2 Series Remote for Windows                                    <a title="adi2remote_win.zip" href="https://www.rme-audio.de/downloads/adi2remote_win.zip" target="_blank">adi2remote_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_madiface_win_09827.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madiface_win_09827.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madiface_win_09827.zip"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/13/2023</strong>
-                Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09827.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09827.zip" target="_blank">driver_madiface_win_09827.zip</a>]]></content>
     </entry>
 </feed>
