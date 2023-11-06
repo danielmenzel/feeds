@@ -2,9 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-11-06T05:36:20.873Z</updated>
+    <updated>2023-11-06T17:36:18.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12Mic-1.7.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/12Mic-1.7.1.zip</id>
+        <link href="https://rme-audio.de/downloads/12Mic-1.7.1.zip"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/06/2023</strong>
+                12Mic Firmware Update                                    <a title="12Mic-1.7.1.zip" href="https://rme-audio.de/downloads/12Mic-1.7.1.zip" target="_blank">12Mic-1.7.1.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[avbtool-1.7.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/avbtool-1.7.1.zip</id>
+        <link href="https://rme-audio.de/downloads/avbtool-1.7.1.zip"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/06/2023</strong>
+                AVB Tool Firmware Update                                    <a title="avbtool-1.7.1.zip" href="https://rme-audio.de/downloads/avbtool-1.7.1.zip" target="_blank">avbtool-1.7.1.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m32adpro-2.5.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/m32adpro-2.5.1.zip</id>
+        <link href="https://rme-audio.de/downloads/m32adpro-2.5.1.zip"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/06/2023</strong>
+                Firmware update for M-32 AD Pro                                    <a title="m32adpro-2.5.1.zip" href="https://rme-audio.de/downloads/m32adpro-2.5.1.zip" target="_blank">m32adpro-2.5.1.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m32dapro-2.5.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/m32dapro-2.5.1.zip</id>
+        <link href="https://rme-audio.de/downloads/m32dapro-2.5.1.zip"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/06/2023</strong>
+                Firmware update for M-32 DA Pro                                    <a title="m32dapro-2.5.1.zip" href="https://rme-audio.de/downloads/m32dapro-2.5.1.zip" target="_blank">m32dapro-2.5.1.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m1610-2.5.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/m1610-2.5.1.zip</id>
+        <link href="https://rme-audio.de/downloads/m1610-2.5.1.zip"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/06/2023</strong>
+                M-1610 Pro Firmware Update                                    <a title="m1610-2.5.1.zip" href="https://rme-audio.de/downloads/m1610-2.5.1.zip" target="_blank">m1610-2.5.1.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
@@ -12,45 +52,5 @@
         <updated>2023-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>10/15/2023</strong>
                 Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
-        <updated>2023-09-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/15/2023</strong>
-                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_mac_remote.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_mac_remote.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_mac_remote.zip"/>
-        <updated>2023-10-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/12/2023</strong>
-                TotalMix Remote Mac                                    <a title="tmfx_mac_remote.zip" href="https://rme-audio.de/downloads/tmfx_mac_remote.zip" target="_blank">tmfx_mac_remote.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win_remote.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win_remote.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win_remote.zip"/>
-        <updated>2023-10-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/12/2023</strong>
-                TotalMix Remote Windows                                    <a title="tmfx_win_remote.zip" href="https://rme-audio.de/downloads/tmfx_win_remote.zip" target="_blank">tmfx_win_remote.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
-        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
-        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
-        <updated>2023-10-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/04/2023</strong>
-                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adi2remote_midi_protocol.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/adi2remote_midi_protocol.zip</id>
-        <link href="https://www.rme-audio.de/downloads/adi2remote_midi_protocol.zip"/>
-        <updated>2023-10-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/01/2023</strong>
-                ADI-2 Series Remote MIDI protocol (for developers)                                    <a title="adi2remote_midi_protocol.zip" href="https://www.rme-audio.de/downloads/adi2remote_midi_protocol.zip" target="_blank">adi2remote_midi_protocol.zip</a>]]></content>
     </entry>
 </feed>
