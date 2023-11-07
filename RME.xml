@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-11-07T05:36:05.553Z</updated>
+    <updated>2023-11-07T17:36:35.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[12Mic-1.7.1.zip]]></title>
-        <id>https://rme-audio.de/downloads/12Mic-1.7.1.zip</id>
-        <link href="https://rme-audio.de/downloads/12Mic-1.7.1.zip"/>
+        <title type="html"><![CDATA[12mic-1.7.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/12mic-1.7.1.zip</id>
+        <link href="https://rme-audio.de/downloads/12mic-1.7.1.zip"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/06/2023</strong>
-                12Mic Firmware Update                                    <a title="12Mic-1.7.1.zip" href="https://rme-audio.de/downloads/12Mic-1.7.1.zip" target="_blank">12Mic-1.7.1.zip</a>]]></content>
+                12Mic Firmware Update                                    <a title="12mic-1.7.1.zip" href="https://rme-audio.de/downloads/12mic-1.7.1.zip" target="_blank">12mic-1.7.1.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[avbtool-1.7.1.zip]]></title>
@@ -22,20 +22,20 @@
                 AVB Tool Firmware Update                                    <a title="avbtool-1.7.1.zip" href="https://rme-audio.de/downloads/avbtool-1.7.1.zip" target="_blank">avbtool-1.7.1.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[m32adpro-2.5.1.zip]]></title>
-        <id>https://rme-audio.de/downloads/m32adpro-2.5.1.zip</id>
-        <link href="https://rme-audio.de/downloads/m32adpro-2.5.1.zip"/>
+        <title type="html"><![CDATA[m32ad-2.5.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/m32ad-2.5.1.zip</id>
+        <link href="https://rme-audio.de/downloads/m32ad-2.5.1.zip"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/06/2023</strong>
-                Firmware update for M-32 AD Pro                                    <a title="m32adpro-2.5.1.zip" href="https://rme-audio.de/downloads/m32adpro-2.5.1.zip" target="_blank">m32adpro-2.5.1.zip</a>]]></content>
+                Firmware update for M-32 AD Pro                                    <a title="m32ad-2.5.1.zip" href="https://rme-audio.de/downloads/m32ad-2.5.1.zip" target="_blank">m32ad-2.5.1.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[m32dapro-2.5.1.zip]]></title>
-        <id>https://rme-audio.de/downloads/m32dapro-2.5.1.zip</id>
-        <link href="https://rme-audio.de/downloads/m32dapro-2.5.1.zip"/>
+        <title type="html"><![CDATA[m32da-2.5.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/m32da-2.5.1.zip</id>
+        <link href="https://rme-audio.de/downloads/m32da-2.5.1.zip"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/06/2023</strong>
-                Firmware update for M-32 DA Pro                                    <a title="m32dapro-2.5.1.zip" href="https://rme-audio.de/downloads/m32dapro-2.5.1.zip" target="_blank">m32dapro-2.5.1.zip</a>]]></content>
+                Firmware update for M-32 DA Pro                                    <a title="m32da-2.5.1.zip" href="https://rme-audio.de/downloads/m32da-2.5.1.zip" target="_blank">m32da-2.5.1.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[m1610-2.5.1.zip]]></title>
