@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-11-17T05:36:06.824Z</updated>
+    <updated>2023-11-17T17:37:15.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2023-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/17/2023</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usbdk_mac_409.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usbdk_mac_409.zip</id>
@@ -44,13 +52,5 @@
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/06/2023</strong>
                 AVB Tool Firmware Update                                    <a title="avbtool-1.7.1.zip" href="https://rme-audio.de/downloads/avbtool-1.7.1.zip" target="_blank">avbtool-1.7.1.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[m32ad-2.5.1.zip]]></title>
-        <id>https://rme-audio.de/downloads/m32ad-2.5.1.zip</id>
-        <link href="https://rme-audio.de/downloads/m32ad-2.5.1.zip"/>
-        <updated>2023-11-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>11/06/2023</strong>
-                Firmware update for M-32 AD Pro                                    <a title="m32ad-2.5.1.zip" href="https://rme-audio.de/downloads/m32ad-2.5.1.zip" target="_blank">m32ad-2.5.1.zip</a>]]></content>
     </entry>
 </feed>
