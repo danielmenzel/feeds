@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2023-12-11T17:36:22.107Z</updated>
+    <updated>2023-12-12T05:36:22.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
+        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
+        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>12/11/2023</strong>
+                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_mac_dspe.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_mac_dspe.zip</id>
@@ -28,14 +36,6 @@
         <updated>2023-11-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/16/2023</strong>
                 macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_409.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_409.zip" target="_blank">driver_usbdk_mac_409.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
-        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
-        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
-        <updated>2023-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>11/16/2023</strong>
-                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[rav2_hw_0_29_sw_0_94.zip]]></title>
