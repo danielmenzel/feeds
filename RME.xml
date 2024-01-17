@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-01-16T17:37:10.406Z</updated>
+    <updated>2024-01-17T05:36:12.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[rme_avb_package_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/rme_avb_package_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/rme_avb_package_mac.zip"/>
-        <updated>2024-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/12/2024</strong>
-                RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
+        <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driver_madinet_win_09831_09596.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madinet_win_09831_09596.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madinet_win_09831_09596.zip"/>
-        <updated>2024-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/11/2024</strong>
-                Windows 7 to 11 PnP combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_09831_09596.zip" href="https://rme-audio.de/downloads/driver_madinet_win_09831_09596.zip" target="_blank">driver_madinet_win_09831_09596.zip</a>]]></content>
+        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12micd_fw1.2.0.zip]]></title>
-        <id>https://rme-audio.de/downloads/12micd_fw1.2.0.zip</id>
-        <link href="https://rme-audio.de/downloads/12micd_fw1.2.0.zip"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/02/2024</strong>
-                12Mic-D Firmware Update                                    <a title="12micd_fw1.2.0.zip" href="https://rme-audio.de/downloads/12micd_fw1.2.0.zip" target="_blank">12micd_fw1.2.0.zip</a>]]></content>
+        <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                Mac OS X Intel Flash Update Tool for Fireface UFX+ (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rmeconnector-mac-arm.dmg]]></title>
-        <id>https://rme-audio.de/downloads/rmeconnector-mac-arm.dmg</id>
-        <link href="https://rme-audio.de/downloads/rmeconnector-mac-arm.dmg"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/02/2024</strong>
-                RME Connector Apple Silicon                                    <a title="rmeconnector-mac-arm.dmg" href="https://rme-audio.de/downloads/rmeconnector-mac-arm.dmg" target="_blank">rmeconnector-mac-arm.dmg</a>]]></content>
+        <title type="html"><![CDATA[driver_usbnw_mac_3223.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                macOS 10.12 up to 10.15 driver for Digiface AVB and Dante                                    <a title="driver_usbnw_mac_3223.zip" href="https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip" target="_blank">driver_usbnw_mac_3223.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rmeconnector-mac.dmg]]></title>
-        <id>https://rme-audio.de/downloads/rmeconnector-mac.dmg</id>
-        <link href="https://rme-audio.de/downloads/rmeconnector-mac.dmg"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/02/2024</strong>
-                RME Connector macOS Intel                                    <a title="rmeconnector-mac.dmg" href="https://rme-audio.de/downloads/rmeconnector-mac.dmg" target="_blank">rmeconnector-mac.dmg</a>]]></content>
+        <title type="html"><![CDATA[driver_usb_mac_331.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_mac_331.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_mac_331.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_331.zip" href="https://rme-audio.de/downloads/driver_usb_mac_331.zip" target="_blank">driver_usb_mac_331.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rmeconnector.exe]]></title>
-        <id>https://rme-audio.de/downloads/rmeconnector.exe</id>
-        <link href="https://rme-audio.de/downloads/rmeconnector.exe"/>
-        <updated>2024-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/02/2024</strong>
-                RME Connector Windows                                    <a title="rmeconnector.exe" href="https://rme-audio.de/downloads/rmeconnector.exe" target="_blank">rmeconnector.exe</a>]]></content>
+        <title type="html"><![CDATA[driver_mac_tbdk_105.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_mac_tbdk_105.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/17/2024</strong>
+                macOS 11 or up Thunderbolt DriverKit driver for Fireface UFX+                                    <a title="driver_mac_tbdk_105.zip" href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip" target="_blank">driver_mac_tbdk_105.zip</a>]]></content>
     </entry>
 </feed>
