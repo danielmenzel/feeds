@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-01-19T05:36:14.263Z</updated>
+    <updated>2024-01-19T17:36:02.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_tb_mac_125.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_tb_mac_125.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_tb_mac_125.zip"/>
+        <updated>2024-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/19/2024</strong>
+                macOS 11/12 Thunderbolt driver for Fireface UFX+                                    <a title="driver_tb_mac_125.zip" href="https://rme-audio.de/downloads/driver_tb_mac_125.zip" target="_blank">driver_tb_mac_125.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rme_avb_package_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/rme_avb_package_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/rme_avb_package_mac.zip"/>
+        <updated>2024-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/18/2024</strong>
+                RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
@@ -36,21 +52,5 @@
         <updated>2024-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/17/2024</strong>
                 macOS 10.12 up to 10.15 driver for Digiface AVB and Dante                                    <a title="driver_usbnw_mac_3223.zip" href="https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip" target="_blank">driver_usbnw_mac_3223.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usb_mac_331.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_mac_331.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_mac_331.zip"/>
-        <updated>2024-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2024</strong>
-                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_331.zip" href="https://rme-audio.de/downloads/driver_usb_mac_331.zip" target="_blank">driver_usb_mac_331.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_mac_tbdk_105.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_mac_tbdk_105.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip"/>
-        <updated>2024-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2024</strong>
-                macOS 11 or up Thunderbolt DriverKit driver for Fireface UFX+                                    <a title="driver_mac_tbdk_105.zip" href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip" target="_blank">driver_mac_tbdk_105.zip</a>]]></content>
     </entry>
 </feed>
