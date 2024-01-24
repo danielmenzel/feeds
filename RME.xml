@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-01-23T17:36:19.730Z</updated>
+    <updated>2024-01-24T05:36:56.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_madiface_win_09831.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madiface_win_09831.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madiface_win_09831.zip"/>
+        <updated>2024-01-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/23/2024</strong>
+                Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09831.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09831.zip" target="_blank">driver_madiface_win_09831.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
         <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/17/2024</strong>
                 Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2024-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2024</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
     </entry>
 </feed>
