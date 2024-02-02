@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-02-02T05:35:49.026Z</updated>
+    <updated>2024-02-02T17:36:03.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[driver_madiface_win_09831.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madiface_win_09831.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madiface_win_09831.zip"/>
+        <title type="html"><![CDATA[driver_madiface_win_09833.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madiface_win_09833.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madiface_win_09833.zip"/>
         <updated>2024-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/23/2024</strong>
-                Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09831.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09831.zip" target="_blank">driver_madiface_win_09831.zip</a>]]></content>
+                Windows 7 to 11 PnP driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09833.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09833.zip" target="_blank">driver_madiface_win_09833.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
