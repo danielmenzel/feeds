@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-02-06T05:35:51.856Z</updated>
+    <updated>2024-02-06T17:36:06.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12micd_fw1.2.1.zip]]></title>
+        <id>https://rme-audio.de/downloads/12micd_fw1.2.1.zip</id>
+        <link href="https://rme-audio.de/downloads/12micd_fw1.2.1.zip"/>
+        <updated>2024-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/06/2024</strong>
+                12Mic-D Firmware Update                                    <a title="12micd_fw1.2.1.zip" href="https://rme-audio.de/downloads/12micd_fw1.2.1.zip" target="_blank">12micd_fw1.2.1.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_madiface_win_09833.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_madiface_win_09833.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-01-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/18/2024</strong>
                 RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
-        <updated>2024-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2024</strong>
-                Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
     </entry>
 </feed>
