@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-02-12T17:36:17.538Z</updated>
+    <updated>2024-02-13T05:38:05.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_hdsp_win_447.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_hdsp_win_447.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_hdsp_win_447.zip"/>
+        <updated>2024-02-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/12/2024</strong>
+                WDM/ASIO driver for HDSP/HDSPe cards/systems                                    <a title="driver_hdsp_win_447.zip" href="https://rme-audio.de/downloads/driver_hdsp_win_447.zip" target="_blank">driver_hdsp_win_447.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tmfx_mac_193.zip]]></title>
         <id>https://rme-audio.de/downloads/tmfx_mac_193.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/20/2024</strong>
                 macOS 11/12 driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_hdspe_mac_425.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_hdspe_mac_425.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip"/>
-        <updated>2024-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/20/2024</strong>
-                macOS 11/12 HDSPe Series Kernel Extension Driver                                    <a title="driver_hdspe_mac_425.zip" href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip" target="_blank">driver_hdspe_mac_425.zip</a>]]></content>
     </entry>
 </feed>
