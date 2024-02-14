@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-02-13T17:35:58.451Z</updated>
+    <updated>2024-02-14T05:37:51.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_pciefx_win_224.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_pciefx_win_224.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_pciefx_win_224.zip"/>
+        <updated>2024-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/13/2024</strong>
+                WDM streaming driver for HDSPe MADI FX, MADIface XT                                    <a title="driver_pciefx_win_224.zip" href="https://rme-audio.de/downloads/driver_pciefx_win_224.zip" target="_blank">driver_pciefx_win_224.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_hdsp_win_447.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_hdsp_win_447.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/23/2024</strong>
                 Windows USB driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna                                    <a title="driver_madiface_win_09833.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09833.zip" target="_blank">driver_madiface_win_09833.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
-        <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
-        <link href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip"/>
-        <updated>2024-01-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/20/2024</strong>
-                macOS 11/12 driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
     </entry>
 </feed>
