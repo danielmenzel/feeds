@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-03-06T05:37:16.466Z</updated>
+    <updated>2024-03-06T17:36:50.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[m32ad_mk2_dante_1.0.3.zip]]></title>
+        <id>https://rme-audio.de/downloads/m32ad_mk2_dante_1.0.3.zip</id>
+        <link href="https://rme-audio.de/downloads/m32ad_mk2_dante_1.0.3.zip"/>
+        <updated>2024-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/06/2024</strong>
+                Firmware update for M-32 AD Pro II-D                                    <a title="m32ad_mk2_dante_1.0.3.zip" href="https://rme-audio.de/downloads/m32ad_mk2_dante_1.0.3.zip" target="_blank">m32ad_mk2_dante_1.0.3.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>02/16/2024</strong>
                 Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12micd_1.2.1r1.zip]]></title>
-        <id>https://rme-audio.de/downloads/12micd_1.2.1r1.zip</id>
-        <link href="https://rme-audio.de/downloads/12micd_1.2.1r1.zip"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/15/2024</strong>
-                12Mic-D Firmware Update                                    <a title="12micd_1.2.1r1.zip" href="https://rme-audio.de/downloads/12micd_1.2.1r1.zip" target="_blank">12micd_1.2.1r1.zip</a>]]></content>
     </entry>
 </feed>
