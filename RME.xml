@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-03-08T17:35:56.003Z</updated>
+    <updated>2024-03-09T05:35:46.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
+        <updated>2024-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/09/2024</strong>
+                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
+        <updated>2024-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/08/2024</strong>
+                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[m32ad_mk2_dante_1.0.3.zip]]></title>
         <id>https://rme-audio.de/downloads/m32ad_mk2_dante_1.0.3.zip</id>
@@ -12,22 +28,6 @@
         <updated>2024-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>03/06/2024</strong>
                 Firmware update for M-32 AD Pro II-D                                    <a title="m32ad_mk2_dante_1.0.3.zip" href="https://rme-audio.de/downloads/m32ad_mk2_dante_1.0.3.zip" target="_blank">m32ad_mk2_dante_1.0.3.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2024-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/01/2024</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
-        <updated>2024-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/01/2024</strong>
-                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
