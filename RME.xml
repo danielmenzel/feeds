@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-03-14T17:36:12.247Z</updated>
+    <updated>2024-03-15T05:36:08.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[adi2remote_mac.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/adi2remote_mac.zip</id>
+        <link href="https://www.rme-audio.de/downloads/adi2remote_mac.zip"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/15/2024</strong>
+                ADI-2 Series Remote for macOS                                    <a title="adi2remote_mac.zip" href="https://www.rme-audio.de/downloads/adi2remote_mac.zip" target="_blank">adi2remote_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[adi2remote_win.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/adi2remote_win.zip</id>
+        <link href="https://www.rme-audio.de/downloads/adi2remote_win.zip"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/15/2024</strong>
+                ADI-2 Series Remote for Windows                                    <a title="adi2remote_win.zip" href="https://www.rme-audio.de/downloads/adi2remote_win.zip" target="_blank">adi2remote_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
@@ -36,21 +52,5 @@
         <updated>2024-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>02/16/2024</strong>
                 Mac OS X Intel Flash Update Tool for Fireface UFX+ (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_tb_win_123.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_tb_win_123.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_tb_win_123.zip"/>
-        <updated>2024-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/16/2024</strong>
-                WDM streaming driver Fireface UFX+ (Thunderbolt)                                    <a title="driver_tb_win_123.zip" href="https://rme-audio.de/downloads/driver_tb_win_123.zip" target="_blank">driver_tb_win_123.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_tb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_tb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_tb_win.zip"/>
-        <updated>2024-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/16/2024</strong>
-                Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
     </entry>
 </feed>
