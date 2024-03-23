@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-03-22T17:35:58.748Z</updated>
+    <updated>2024-03-23T05:36:35.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.rme-audio.de/downloads/adi2remote_mac.zip</id>
         <link href="https://www.rme-audio.de/downloads/adi2remote_mac.zip"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/15/2024</strong>
+        <content type="html"><![CDATA[<strong>03/23/2024</strong>
                 ADI-2 Series Remote for macOS                                    <a title="adi2remote_mac.zip" href="https://www.rme-audio.de/downloads/adi2remote_mac.zip" target="_blank">adi2remote_mac.zip</a>]]></content>
     </entry>
     <entry>
@@ -18,7 +18,7 @@
         <id>https://www.rme-audio.de/downloads/adi2remote_win.zip</id>
         <link href="https://www.rme-audio.de/downloads/adi2remote_win.zip"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/15/2024</strong>
+        <content type="html"><![CDATA[<strong>03/23/2024</strong>
                 ADI-2 Series Remote for Windows                                    <a title="adi2remote_win.zip" href="https://www.rme-audio.de/downloads/adi2remote_win.zip" target="_blank">adi2remote_win.zip</a>]]></content>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
         <updated>2024-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/09/2024</strong>
+        <content type="html"><![CDATA[<strong>03/23/2024</strong>
                 Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
     </entry>
     <entry>
