@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-05-03T05:35:55.599Z</updated>
+    <updated>2024-05-03T17:36:26.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[fut_df_avb_mac_260.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_df_avb_mac_260.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_260.zip"/>
-        <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/29/2024</strong>
-                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_260.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_260.zip" target="_blank">fut_df_avb_mac_260.zip</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
         <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/29/2024</strong>
+        <content type="html"><![CDATA[<strong>05/03/2024</strong>
                 Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
     </entry>
     <entry>
@@ -26,7 +18,7 @@
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/29/2024</strong>
+        <content type="html"><![CDATA[<strong>05/03/2024</strong>
                 Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
     </entry>
     <entry>
@@ -34,7 +26,7 @@
         <id>https://rme-audio.de/downloads/fut_usb_win.zip</id>
         <link href="https://rme-audio.de/downloads/fut_usb_win.zip"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/29/2024</strong>
+        <content type="html"><![CDATA[<strong>05/03/2024</strong>
                 Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
     </entry>
     <entry>
@@ -42,8 +34,16 @@
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/29/2024</strong>
+        <content type="html"><![CDATA[<strong>05/03/2024</strong>
                 Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_df_avb_mac_260.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_df_avb_mac_260.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_260.zip"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>04/29/2024</strong>
+                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_260.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_260.zip" target="_blank">fut_df_avb_mac_260.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fut_hdspe_fx_mac.zip]]></title>
