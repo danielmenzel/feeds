@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-05-08T05:37:23.899Z</updated>
+    <updated>2024-05-08T17:36:31.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[digicheck_ng_win_090.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_090.zip</id>
+        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_090.zip"/>
+        <updated>2024-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/08/2024</strong>
+                DigiCheck NG Windows                                    <a title="digicheck_ng_win_090.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_090.zip" target="_blank">digicheck_ng_win_090.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>04/29/2024</strong>
                 Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_260.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_260.zip" target="_blank">fut_df_avb_mac_260.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_hdspe_fx_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip"/>
-        <updated>2024-04-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/27/2024</strong>
-                Mac OS X Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_mac.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip" target="_blank">fut_hdspe_fx_mac.zip</a>]]></content>
     </entry>
 </feed>
