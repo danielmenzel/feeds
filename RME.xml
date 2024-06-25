@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-06-25T05:37:16.055Z</updated>
+    <updated>2024-06-25T17:35:52.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[tmfx_mac_195.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_mac_195.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_mac_195.zip"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/25/2024</strong>
+                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_195.zip" href="https://rme-audio.de/downloads/tmfx_mac_195.zip" target="_blank">tmfx_mac_195.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tmfx_win_195.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_195.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_195.zip"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/25/2024</strong>
+                TotalMix FX Windows latest version (single file download)                                    <a title="tmfx_win_195.zip" href="https://rme-audio.de/downloads/tmfx_win_195.zip" target="_blank">tmfx_win_195.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_madiface_win_09843.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madiface_win_09843.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madiface_win_09843.zip"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/25/2024</strong>
+                Windows USB driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna, USB.IO                                    <a title="driver_madiface_win_09843.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09843.zip" target="_blank">driver_madiface_win_09843.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
@@ -28,29 +52,5 @@
         <updated>2024-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>06/12/2024</strong>
                 Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/12/2024</strong>
-                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12mic_2.0.0.zip]]></title>
-        <id>https://rme-audio.de/downloads/12mic_2.0.0.zip</id>
-        <link href="https://rme-audio.de/downloads/12mic_2.0.0.zip"/>
-        <updated>2024-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/09/2024</strong>
-                12Mic Firmware Update 2.x                                    <a title="12mic_2.0.0.zip" href="https://rme-audio.de/downloads/12mic_2.0.0.zip" target="_blank">12mic_2.0.0.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_mac_remote.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_mac_remote.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_mac_remote.zip"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/29/2024</strong>
-                TotalMix Remote Mac                                    <a title="tmfx_mac_remote.zip" href="https://rme-audio.de/downloads/tmfx_mac_remote.zip" target="_blank">tmfx_mac_remote.zip</a>]]></content>
     </entry>
 </feed>
