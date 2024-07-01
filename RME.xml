@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-06-30T17:36:34.167Z</updated>
+    <updated>2024-07-01T05:37:04.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usbnw_mac_3223.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/28/2024</strong>
+                macOS 10.12 up to 10.15 driver for Digiface AVB and Dante                                    <a title="driver_usbnw_mac_3223.zip" href="https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip" target="_blank">driver_usbnw_mac_3223.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_mac_3223.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_mac_3223.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_mac_3223.zip"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/28/2024</strong>
+                macOS 10.12 up to 10.15 driver for Fireface UFX / UFX+ / UFX III, UFX II, 802, UCX, UCX II, UC, Babyface, Babyface Pro, MADIface XT/USB/Pro, Digiface USB/AES/Dante/Ravenna                                    <a title="driver_usb_mac_3223.zip" href="https://rme-audio.de/downloads/driver_usb_mac_3223.zip" target="_blank">driver_usb_mac_3223.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_mac_331.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_mac_331.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_mac_331.zip"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/28/2024</strong>
+                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_331.zip" href="https://rme-audio.de/downloads/driver_usb_mac_331.zip" target="_blank">driver_usb_mac_331.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_410.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_410.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/28/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_410.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip" target="_blank">driver_usbdk_mac_410.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tmfx_mac_195.zip]]></title>
         <id>https://rme-audio.de/downloads/tmfx_mac_195.zip</id>
@@ -20,37 +52,5 @@
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>06/25/2024</strong>
                 TotalMix FX Windows latest version (single file download)                                    <a title="tmfx_win_195.zip" href="https://rme-audio.de/downloads/tmfx_win_195.zip" target="_blank">tmfx_win_195.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_madiface_win_09843.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madiface_win_09843.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madiface_win_09843.zip"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/25/2024</strong>
-                Windows USB driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna, USB.IO                                    <a title="driver_madiface_win_09843.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09843.zip" target="_blank">driver_madiface_win_09843.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
-        <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/12/2024</strong>
-                Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/12/2024</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_win.zip"/>
-        <updated>2024-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/12/2024</strong>
-                Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
     </entry>
 </feed>
