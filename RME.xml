@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-07-02T05:36:53.749Z</updated>
+    <updated>2024-07-02T17:36:15.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_410.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_410.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/29/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_410.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip" target="_blank">driver_usbdk_mac_410.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usbnw_mac_3223.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usbnw_mac_3223.zip</id>
@@ -28,14 +36,6 @@
         <updated>2024-06-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>06/28/2024</strong>
                 macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_331.zip" href="https://rme-audio.de/downloads/driver_usb_mac_331.zip" target="_blank">driver_usb_mac_331.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usbdk_mac_410.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usbdk_mac_410.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip"/>
-        <updated>2024-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/28/2024</strong>
-                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_410.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_410.zip" target="_blank">driver_usbdk_mac_410.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tmfx_mac_195.zip]]></title>
