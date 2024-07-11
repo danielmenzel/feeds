@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-07-11T05:38:31.755Z</updated>
+    <updated>2024-07-11T17:36:58.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_hdspe_fx_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/11/2024</strong>
+                Mac OS X Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_mac.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip" target="_blank">fut_hdspe_fx_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_hdspe_fx_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_hdspe_fx_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/11/2024</strong>
+                Windows Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_win.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip" target="_blank">fut_hdspe_fx_win.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_win_1251.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_win_1251.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_win_1251.zip"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/11/2024</strong>
+                Windows USB driver for Fireface UFX, 802, UCX, UCX II, UC and Babyface/Pro                                    <a title="driver_usb_win_1251.zip" href="https://rme-audio.de/downloads/driver_usb_win_1251.zip" target="_blank">driver_usb_win_1251.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M32AD2D-20240703.zip]]></title>
         <id>https://www.rme-usa.com/downloads.html?file=files/downloads/drivers/Others/M32AD2D-20240703.zip</id>
@@ -28,29 +52,5 @@
         <updated>2024-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/04/2024</strong>
                 Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2024-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/04/2024</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
-        <updated>2024-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/04/2024</strong>
-                Mac OS X Intel Flash Update Tool for Fireface UFX+ (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_tb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_tb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_tb_win.zip"/>
-        <updated>2024-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/04/2024</strong>
-                Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
     </entry>
 </feed>
