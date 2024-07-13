@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-07-12T17:36:18.633Z</updated>
+    <updated>2024-07-13T05:36:31.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -22,6 +22,22 @@
                 Mac OS X Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_mac.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip" target="_blank">fut_hdspe_fx_mac.zip</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
+        <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
+        <link href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/11/2024</strong>
+                macOS 11 or up PCIe driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
+        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
+        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/11/2024</strong>
+                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
         <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
@@ -36,21 +52,5 @@
         <updated>2024-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/11/2024</strong>
                 Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_hdspe_fx_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_hdspe_fx_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                Windows Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_win.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_win.zip" target="_blank">fut_hdspe_fx_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usb_win_1251.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_win_1251.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_win_1251.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                Windows USB driver for Fireface UFX, 802, UCX, UCX II, UC and Babyface/Pro                                    <a title="driver_usb_win_1251.zip" href="https://rme-audio.de/downloads/driver_usb_win_1251.zip" target="_blank">driver_usb_win_1251.zip</a>]]></content>
     </entry>
 </feed>
