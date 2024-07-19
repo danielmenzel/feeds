@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-07-19T05:37:37.336Z</updated>
+    <updated>2024-07-19T17:37:49.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
+        <updated>2024-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/19/2024</strong>
+                Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_usb_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_win.zip"/>
+        <updated>2024-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/19/2024</strong>
+                Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
@@ -36,21 +52,5 @@
         <updated>2024-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/11/2024</strong>
                 macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                macOS UFX+ Flash Update Tool (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_tb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_tb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_tb_win.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
     </entry>
 </feed>
