@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-07-24T05:37:34.802Z</updated>
+    <updated>2024-07-24T17:36:16.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[digicheck_ng_mac_091.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip</id>
+        <link href="https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/24/2024</strong>
+                DigiCheck NG macOS                                    <a title="digicheck_ng_mac_091.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip" target="_blank">digicheck_ng_mac_091.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digicheck_ng_win_091.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip</id>
+        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/24/2024</strong>
+                DigiCheck NG Windows                                    <a title="digicheck_ng_win_091.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip" target="_blank">digicheck_ng_win_091.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_412.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_412.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_412.zip"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/24/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_412.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_412.zip" target="_blank">driver_usbdk_mac_412.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>07/24/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
@@ -20,37 +52,5 @@
         <updated>2024-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/19/2024</strong>
                 Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_hdspe_fx_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                Mac OS X Flash Update Tool HDSPe MADI FX &amp; MADIface XT                                    <a title="fut_hdspe_fx_mac.zip" href="https://rme-audio.de/downloads/fut_hdspe_fx_mac.zip" target="_blank">fut_hdspe_fx_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
-        <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
-        <link href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                macOS 11 or up PCIe driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
-        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
-        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/11/2024</strong>
-                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
     </entry>
 </feed>
