@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-08-16T05:37:49.779Z</updated>
+    <updated>2024-08-16T17:36:50.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[rav2_hw_0_29_sw_1_02_3.zip]]></title>
+        <id>https://rme-audio.de/downloads/rav2_hw_0_29_sw_1_02_3.zip</id>
+        <link href="https://rme-audio.de/downloads/rav2_hw_0_29_sw_1_02_3.zip"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/16/2024</strong>
+                Digiface Ravenna - RAV2 module firmware update                                    <a title="rav2_hw_0_29_sw_1_02_3.zip" href="https://rme-audio.de/downloads/rav2_hw_0_29_sw_1_02_3.zip" target="_blank">rav2_hw_0_29_sw_1_02_3.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[digicheck_ng_mac_091.zip]]></title>
         <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/19/2024</strong>
                 Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fut_usb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_win.zip"/>
-        <updated>2024-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/19/2024</strong>
-                Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
     </entry>
 </feed>
