@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-08-28T05:38:54.082Z</updated>
+    <updated>2024-08-28T17:39:52.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/28/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usb_mac_333.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usb_mac_333.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>07/24/2024</strong>
                 DigiCheck NG Windows                                    <a title="digicheck_ng_win_091.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip" target="_blank">digicheck_ng_win_091.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driverkit-info.html]]></title>
-        <id>https://rme-audio.de/driverkit-info.html</id>
-        <link href="https://rme-audio.de/driverkit-info.html"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/24/2024</strong>
-                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
     </entry>
 </feed>
