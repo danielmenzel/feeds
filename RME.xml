@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-08-29T17:37:36.924Z</updated>
+    <updated>2024-08-30T05:38:35.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[tmfx_mac_196.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_mac_196.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_mac_196.zip"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/30/2024</strong>
+                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_196.zip" href="https://rme-audio.de/downloads/tmfx_mac_196.zip" target="_blank">tmfx_mac_196.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tmfx_win_196.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_196.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_196.zip"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>08/30/2024</strong>
+                TotalMix FX Windows latest version (single file download)                                    <a title="tmfx_win_196.zip" href="https://rme-audio.de/downloads/tmfx_win_196.zip" target="_blank">tmfx_win_196.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driverkit-info.html]]></title>
         <id>https://rme-audio.de/driverkit-info.html</id>
@@ -36,21 +52,5 @@
         <updated>2024-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>08/16/2024</strong>
                 Digiface Ravenna - RAV2 module firmware update                                    <a title="rav2_hw_0_29_sw_1_02_3.zip" href="https://rme-audio.de/downloads/rav2_hw_0_29_sw_1_02_3.zip" target="_blank">rav2_hw_0_29_sw_1_02_3.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digicheck_ng_mac_091.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/24/2024</strong>
-                DigiCheck NG macOS                                    <a title="digicheck_ng_mac_091.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_mac_091.zip" target="_blank">digicheck_ng_mac_091.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digicheck_ng_win_091.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>07/24/2024</strong>
-                DigiCheck NG Windows                                    <a title="digicheck_ng_win_091.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_091.zip" target="_blank">digicheck_ng_win_091.zip</a>]]></content>
     </entry>
 </feed>
