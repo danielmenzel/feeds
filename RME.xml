@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-10-17T05:40:29.009Z</updated>
+    <updated>2024-10-17T17:39:17.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[driver_usbdk_mac_416.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usbdk_mac_416.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_416.zip"/>
-        <updated>2024-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/06/2024</strong>
-                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_416.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_416.zip" target="_blank">driver_usbdk_mac_416.zip</a>]]></content>
+        <title type="html"><![CDATA[driverkit-info-hdspe.html]]></title>
+        <id>https://rme-audio.de/driverkit-info-hdspe.html</id>
+        <link href="https://rme-audio.de/driverkit-info-hdspe.html"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
+                macOS 12 or up HDSPe Series DriverKit Driver                                    <a title="driverkit-info-hdspe.html" href="https://rme-audio.de/driverkit-info-hdspe.html" target="_blank">driverkit-info-hdspe.html</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driverkit-info.html]]></title>
-        <id>https://rme-audio.de/driverkit-info.html</id>
-        <link href="https://rme-audio.de/driverkit-info.html"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/06/2024</strong>
-                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+        <title type="html"><![CDATA[tmfx_mac_197.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_mac_197.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_mac_197.zip"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
+                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_197.zip" href="https://rme-audio.de/downloads/tmfx_mac_197.zip" target="_blank">tmfx_mac_197.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
-        <updated>2024-09-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>09/02/2024</strong>
-                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_mac_196.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_mac_196.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_mac_196.zip"/>
-        <updated>2024-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>08/30/2024</strong>
-                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_196.zip" href="https://rme-audio.de/downloads/tmfx_mac_196.zip" target="_blank">tmfx_mac_196.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win_196.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win_196.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win_196.zip"/>
-        <updated>2024-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>08/30/2024</strong>
-                TotalMix FX Windows latest version (single file download)                                    <a title="tmfx_win_196.zip" href="https://rme-audio.de/downloads/tmfx_win_196.zip" target="_blank">tmfx_win_196.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_win_197.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_197.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_197.zip"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
+                TotalMix FX Windows latest version (single file download)                                    <a title="tmfx_win_197.zip" href="https://rme-audio.de/downloads/tmfx_win_197.zip" target="_blank">tmfx_win_197.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tmfx_mac_remote.zip]]></title>
         <id>https://rme-audio.de/downloads/tmfx_mac_remote.zip</id>
         <link href="https://rme-audio.de/downloads/tmfx_mac_remote.zip"/>
         <updated>2024-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>08/30/2024</strong>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
                 TotalMix Remote Mac                                    <a title="tmfx_mac_remote.zip" href="https://rme-audio.de/downloads/tmfx_mac_remote.zip" target="_blank">tmfx_mac_remote.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tmfx_win_remote.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_remote.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_remote.zip"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
+                TotalMix Remote Windows                                    <a title="tmfx_win_remote.zip" href="https://rme-audio.de/downloads/tmfx_win_remote.zip" target="_blank">tmfx_win_remote.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_madinet_win_09845_09598.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/17/2024</strong>
+                Windows USB combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_09845_09598.zip" href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip" target="_blank">driver_madinet_win_09845_09598.zip</a>]]></content>
     </entry>
 </feed>
