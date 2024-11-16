@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-11-15T17:39:18.480Z</updated>
+    <updated>2024-11-16T05:40:07.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_madinet_win_09845_09598.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>10/30/2024</strong>
+                Windows USB combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_09845_09598.zip" href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip" target="_blank">driver_madinet_win_09845_09598.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_hdspe_mac_425.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_hdspe_mac_425.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>10/18/2024</strong>
                 WDM streaming driver for HDSPe MADI FX, MADIface XT                                    <a title="driver_pciefx_win_226.zip" href="https://rme-audio.de/downloads/driver_pciefx_win_226.zip" target="_blank">driver_pciefx_win_226.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usb_mac_333.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_mac_333.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_mac_333.zip"/>
-        <updated>2024-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/17/2024</strong>
-                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_333.zip" href="https://rme-audio.de/downloads/driver_usb_mac_333.zip" target="_blank">driver_usb_mac_333.zip</a>]]></content>
     </entry>
 </feed>
