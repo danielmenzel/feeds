@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-11-18T17:39:51.051Z</updated>
+    <updated>2024-11-19T05:40:44.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_417.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_417.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_417.zip"/>
+        <updated>2024-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/19/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_417.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_417.zip" target="_blank">driver_usbdk_mac_417.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2024-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/19/2024</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_madinet_win_09845_09598.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip</id>
@@ -36,21 +52,5 @@
         <updated>2024-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>10/18/2024</strong>
                 macOS 11 or up Thunderbolt driver for Fireface UFX+                                    <a title="driver_tb_mac_125.zip" href="https://rme-audio.de/downloads/driver_tb_mac_125.zip" target="_blank">driver_tb_mac_125.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_mac_tbdk_105.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_mac_tbdk_105.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/18/2024</strong>
-                macOS 11 or up Thunderbolt DriverKit driver for Fireface UFX+                                    <a title="driver_mac_tbdk_105.zip" href="https://rme-audio.de/downloads/driver_mac_tbdk_105.zip" target="_blank">driver_mac_tbdk_105.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_pciefx_win_226.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_pciefx_win_226.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_pciefx_win_226.zip"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/18/2024</strong>
-                WDM streaming driver for HDSPe MADI FX, MADIface XT                                    <a title="driver_pciefx_win_226.zip" href="https://rme-audio.de/downloads/driver_pciefx_win_226.zip" target="_blank">driver_pciefx_win_226.zip</a>]]></content>
     </entry>
 </feed>
