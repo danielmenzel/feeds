@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-11-29T05:41:59.413Z</updated>
+    <updated>2024-11-29T17:39:41.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/29/2024</strong>
+                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III, USB.IO                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>11/29/2024</strong>
+                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usbdk_mac_417.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usbdk_mac_417.zip</id>
@@ -36,21 +52,5 @@
         <updated>2024-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>10/18/2024</strong>
                 macOS 11 or up HDSPe Series Kernel Extension Driver                                    <a title="driver_hdspe_mac_425.zip" href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip" target="_blank">driver_hdspe_mac_425.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
-        <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
-        <link href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/18/2024</strong>
-                macOS 11 or up PCIe driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_tb_mac_125.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_tb_mac_125.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_tb_mac_125.zip"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/18/2024</strong>
-                macOS 11 or up Thunderbolt driver for Fireface UFX+                                    <a title="driver_tb_mac_125.zip" href="https://rme-audio.de/downloads/driver_tb_mac_125.zip" target="_blank">driver_tb_mac_125.zip</a>]]></content>
     </entry>
 </feed>
