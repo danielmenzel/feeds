@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2024-12-10T17:41:18.879Z</updated>
+    <updated>2024-12-11T05:41:44.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
         <updated>2024-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>11/29/2024</strong>
+        <content type="html"><![CDATA[<strong>12/11/2024</strong>
                 Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III, USB.IO                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
     </entry>
     <entry>
