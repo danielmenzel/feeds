@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-01-03T17:38:23.529Z</updated>
+    <updated>2025-01-04T05:38:34.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_madiface_win_09849.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip</id>
+        <link href="https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip"/>
+        <updated>2024-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>12/31/2024</strong>
+                Arm 64 bit driver for Windows 10 and up, MADIface USB series                                    <a title="driver_madiface_win_09849.zip" href="https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip" target="_blank">driver_madiface_win_09849.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-10-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>10/30/2024</strong>
                 Windows USB combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_09845_09598.zip" href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip" target="_blank">driver_madinet_win_09845_09598.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_hdspe_mac_425.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_hdspe_mac_425.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/18/2024</strong>
-                macOS 11 or up HDSPe Series Kernel Extension Driver                                    <a title="driver_hdspe_mac_425.zip" href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip" target="_blank">driver_hdspe_mac_425.zip</a>]]></content>
     </entry>
 </feed>
