@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-01-07T05:39:25.992Z</updated>
+    <updated>2025-01-07T17:38:58.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_madiface_win_09845.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_madiface_win_09845.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_madiface_win_09845.zip"/>
+        <updated>2025-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/01/2025</strong>
+                Windows USB driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna, USB.IO                                    <a title="driver_madiface_win_09845.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09845.zip" target="_blank">driver_madiface_win_09845.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_madiface_win_09849.zip]]></title>
         <id>https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip</id>
@@ -44,13 +52,5 @@
         <updated>2024-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>11/19/2024</strong>
                 macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_madinet_win_09845_09598.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip"/>
-        <updated>2024-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>10/30/2024</strong>
-                Windows USB combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_09845_09598.zip" href="https://rme-audio.de/downloads/driver_madinet_win_09845_09598.zip" target="_blank">driver_madinet_win_09845_09598.zip</a>]]></content>
     </entry>
 </feed>
