@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-01-09T05:38:22.696Z</updated>
+    <updated>2025-01-09T17:38:23.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[digicheck_ng_mac_092.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_092.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_mac_092.zip"/>
-        <updated>2025-01-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/08/2025</strong>
-                DigiCheck NG macOS                                    <a title="digicheck_ng_mac_092.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_mac_092.zip" target="_blank">digicheck_ng_mac_092.zip</a>]]></content>
+        <title type="html"><![CDATA[driver_usbdk_mac_418.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_418.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_418.zip"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_418.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_418.zip" target="_blank">driver_usbdk_mac_418.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[digicheck_ng_win_092.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_092.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_092.zip"/>
-        <updated>2025-01-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/08/2025</strong>
-                DigiCheck NG Windows                                    <a title="digicheck_ng_win_092.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_092.zip" target="_blank">digicheck_ng_win_092.zip</a>]]></content>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driver_madiface_win_09845.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madiface_win_09845.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madiface_win_09845.zip"/>
-        <updated>2025-01-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/01/2025</strong>
-                Windows USB driver for MADIface XT / USB / Pro, Fireface UFX+ / UFX II / UFX III, OctaMic XTC, ADI-2 Pro/AE/FS/DAC, ADI-2/4 Pro, Digiface USB / AES / Dante / Ravenna, USB.IO                                    <a title="driver_madiface_win_09845.zip" href="https://rme-audio.de/downloads/driver_madiface_win_09845.zip" target="_blank">driver_madiface_win_09845.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_win_arm64_198.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_arm64_198.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_arm64_198.zip"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                TotalMix FX Arm64 latest version (single file download)                                    <a title="tmfx_win_arm64_198.zip" href="https://rme-audio.de/downloads/tmfx_win_arm64_198.zip" target="_blank">tmfx_win_arm64_198.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driver_usb_win_1260.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_win_1260.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_win_1260.zip"/>
-        <updated>2024-12-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>12/31/2024</strong>
-                Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1260.zip" href="https://rme-audio.de/downloads/driver_usb_win_1260.zip" target="_blank">driver_usb_win_1260.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_mac_198.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_mac_198.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_mac_198.zip"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_198.zip" href="https://rme-audio.de/downloads/tmfx_mac_198.zip" target="_blank">tmfx_mac_198.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driver_madiface_win_09849.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip</id>
-        <link href="https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip"/>
-        <updated>2024-12-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>12/31/2024</strong>
-                Arm 64 bit driver for Windows 10 and up, MADIface USB series                                    <a title="driver_madiface_win_09849.zip" href="https://www.rme-audio.de/downloads/driver_madiface_win_09849.zip" target="_blank">driver_madiface_win_09849.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_win32_198.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win32_198.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win32_198.zip"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                TotalMix FX Windows 32 bit latest version (single file download)                                    <a title="tmfx_win32_198.zip" href="https://rme-audio.de/downloads/tmfx_win32_198.zip" target="_blank">tmfx_win32_198.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
-        <updated>2024-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>12/13/2024</strong>
-                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_winx64_198.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_winx64_198.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_winx64_198.zip"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/09/2025</strong>
+                TotalMix FX Windows 64 bit, latest version (single file download)                                    <a title="tmfx_winx64_198.zip" href="https://rme-audio.de/downloads/tmfx_winx64_198.zip" target="_blank">tmfx_winx64_198.zip</a>]]></content>
     </entry>
 </feed>
