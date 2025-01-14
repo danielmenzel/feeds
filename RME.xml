@@ -2,15 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-01-13T17:38:51.898Z</updated>
+    <updated>2025-01-14T05:37:42.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_win_1270.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_win_1270.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_win_1270.zip"/>
+        <updated>2025-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/13/2025</strong>
+                x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1270.zip" href="https://rme-audio.de/downloads/driver_usb_win_1270.zip" target="_blank">driver_usb_win_1270.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_madiface_win_10.zip]]></title>
         <id>https://www.rme-audio.de/downloads/driver_madiface_win_10.zip</id>
         <link href="https://www.rme-audio.de/downloads/driver_madiface_win_10.zip"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/10/2025</strong>
+        <content type="html"><![CDATA[<strong>01/13/2025</strong>
                 x64 / Arm 64 bit driver for Windows 10 and up, MADIface USB series                                    <a title="driver_madiface_win_10.zip" href="https://www.rme-audio.de/downloads/driver_madiface_win_10.zip" target="_blank">driver_madiface_win_10.zip</a>]]></content>
     </entry>
     <entry>
@@ -44,13 +52,5 @@
         <updated>2025-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/09/2025</strong>
                 TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_198.zip" href="https://rme-audio.de/downloads/tmfx_mac_198.zip" target="_blank">tmfx_mac_198.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win32_198.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win32_198.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win32_198.zip"/>
-        <updated>2025-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/09/2025</strong>
-                TotalMix FX Windows 32 bit latest version (single file download)                                    <a title="tmfx_win32_198.zip" href="https://rme-audio.de/downloads/tmfx_win32_198.zip" target="_blank">tmfx_win32_198.zip</a>]]></content>
     </entry>
 </feed>
