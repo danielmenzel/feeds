@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-01-15T05:39:03.986Z</updated>
+    <updated>2025-01-15T17:37:28.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_usb_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_mac.zip"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/15/2025</strong>
+                Mac OS Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface/Pro                                    <a title="fut_usb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_mac.zip" target="_blank">fut_usb_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_usb_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_win.zip"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>01/15/2025</strong>
+                Windows Flash Update Tool for Fireface UFX, 802, UCX, UCX II, UC, Babyface Pro                                    <a title="fut_usb_win.zip" href="https://rme-audio.de/downloads/fut_usb_win.zip" target="_blank">fut_usb_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usb_win_1270.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usb_win_1270.zip</id>
@@ -36,21 +52,5 @@
         <updated>2025-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>01/09/2025</strong>
                 macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win_arm64_198.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win_arm64_198.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win_arm64_198.zip"/>
-        <updated>2025-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/09/2025</strong>
-                TotalMix FX Arm64 latest version (single file download)                                    <a title="tmfx_win_arm64_198.zip" href="https://rme-audio.de/downloads/tmfx_win_arm64_198.zip" target="_blank">tmfx_win_arm64_198.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_mac_198.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_mac_198.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_mac_198.zip"/>
-        <updated>2025-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/09/2025</strong>
-                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_198.zip" href="https://rme-audio.de/downloads/tmfx_mac_198.zip" target="_blank">tmfx_mac_198.zip</a>]]></content>
     </entry>
 </feed>
