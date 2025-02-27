@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-02-27T05:40:23.297Z</updated>
+    <updated>2025-02-27T17:39:00.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[fut_df_avb_mac_263.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_df_avb_mac_263.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_263.zip"/>
-        <updated>2025-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/29/2025</strong>
-                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_263.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_263.zip" target="_blank">fut_df_avb_mac_263.zip</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
         <updated>2025-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/29/2025</strong>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
                 Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III, USB.IO                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDSPeAoXD_v100_FULL_MAC.zip]]></title>
+        <id>https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip</id>
+        <link href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
+                macOS HDSPe AoX Driver &amp; Firmware Package                                    <a title="HDSPeAoXD_v100_FULL_MAC.zip" href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip" target="_blank">HDSPeAoXD_v100_FULL_MAC.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
+                macOS UFX+ Flash Update Tool (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_tb_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_tb_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_tb_win.zip"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
+                Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
         <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
         <updated>2025-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/29/2025</strong>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
                 Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driver_hdspe_mac_425.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_hdspe_mac_425.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2025</strong>
-                macOS 11 or up HDSPe Series Kernel Extension Driver                                    <a title="driver_hdspe_mac_425.zip" href="https://rme-audio.de/downloads/driver_hdspe_mac_425.zip" target="_blank">driver_hdspe_mac_425.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hdspe_fx_mac_134.zip]]></title>
-        <id>https://rme-audio.de/downloads/hdspe_fx_mac_134.zip</id>
-        <link href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2025</strong>
-                macOS 11 or up PCIe driver for HDSPe MADI FX and MADIface XT                                    <a title="hdspe_fx_mac_134.zip" href="https://rme-audio.de/downloads/hdspe_fx_mac_134.zip" target="_blank">hdspe_fx_mac_134.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_tb_mac_125.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_tb_mac_125.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_tb_mac_125.zip"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>01/17/2025</strong>
-                macOS 11 or up Thunderbolt driver for Fireface UFX+                                    <a title="driver_tb_mac_125.zip" href="https://rme-audio.de/downloads/driver_tb_mac_125.zip" target="_blank">driver_tb_mac_125.zip</a>]]></content>
+        <title type="html"><![CDATA[HDSPeAoXD_v100_FULL_WIN.zip]]></title>
+        <id>https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_WIN.zip</id>
+        <link href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_WIN.zip"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>02/27/2025</strong>
+                Windows HDSPe AoX Driver &amp; Firmware Package                                    <a title="HDSPeAoXD_v100_FULL_WIN.zip" href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_WIN.zip" target="_blank">HDSPeAoXD_v100_FULL_WIN.zip</a>]]></content>
     </entry>
 </feed>
