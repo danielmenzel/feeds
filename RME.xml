@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-03-31T05:41:17.157Z</updated>
+    <updated>2025-03-31T17:39:48.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[driver_usbdk_mac_421.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usbdk_mac_421.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_421.zip"/>
-        <updated>2025-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/17/2025</strong>
-                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_421.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_421.zip" target="_blank">driver_usbdk_mac_421.zip</a>]]></content>
+        <title type="html"><![CDATA[12Mic_2_0_1.zip]]></title>
+        <id>https://rme-audio.de/downloads/12Mic_2_0_1.zip</id>
+        <link href="https://rme-audio.de/downloads/12Mic_2_0_1.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                12Mic Firmware Update 2.x                                    <a title="12Mic_2_0_1.zip" href="https://rme-audio.de/downloads/12Mic_2_0_1.zip" target="_blank">12Mic_2_0_1.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[driverkit-info.html]]></title>
-        <id>https://rme-audio.de/driverkit-info.html</id>
-        <link href="https://rme-audio.de/driverkit-info.html"/>
-        <updated>2025-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/17/2025</strong>
-                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+        <title type="html"><![CDATA[12Mic-D_1_3_0.zip]]></title>
+        <id>https://rme-audio.de/downloads/12Mic-D_1_3_0.zip</id>
+        <link href="https://rme-audio.de/downloads/12Mic-D_1_3_0.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                12Mic-D Firmware Update                                    <a title="12Mic-D_1_3_0.zip" href="https://rme-audio.de/downloads/12Mic-D_1_3_0.zip" target="_blank">12Mic-D_1_3_0.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
-        <updated>2025-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/27/2025</strong>
-                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III, USB.IO                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
+        <title type="html"><![CDATA[AVB_Tool_2_0_1.zip]]></title>
+        <id>https://rme-audio.de/downloads/AVB_Tool_2_0_1.zip</id>
+        <link href="https://rme-audio.de/downloads/AVB_Tool_2_0_1.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                AVB Tool Firmware Update                                    <a title="AVB_Tool_2_0_1.zip" href="https://rme-audio.de/downloads/AVB_Tool_2_0_1.zip" target="_blank">AVB_Tool_2_0_1.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HDSPeAoXD_v100_FULL_MAC.zip]]></title>
-        <id>https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip</id>
-        <link href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip"/>
-        <updated>2025-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/27/2025</strong>
-                macOS HDSPe AoX Driver &amp; Firmware Package                                    <a title="HDSPeAoXD_v100_FULL_MAC.zip" href="https://rme-audio.de/downloads/HDSPeAoXD_v100_FULL_MAC.zip" target="_blank">HDSPeAoXD_v100_FULL_MAC.zip</a>]]></content>
+        <title type="html"><![CDATA[M-32_AD_Pro_3_0_6.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip</id>
+        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                Firmware update for M-32 AD Pro                                    <a title="M-32_AD_Pro_3_0_6.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip" target="_blank">M-32_AD_Pro_3_0_6.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_usb_tb_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_usb_tb_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip"/>
-        <updated>2025-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/27/2025</strong>
-                macOS UFX+ Flash Update Tool (USB+Thunderbolt)                                    <a title="fut_usb_tb_mac.zip" href="https://rme-audio.de/downloads/fut_usb_tb_mac.zip" target="_blank">fut_usb_tb_mac.zip</a>]]></content>
+        <title type="html"><![CDATA[M-32_AD_Pro_II_3_0_6.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip</id>
+        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                Firmware update for M-32 AD Pro II                                    <a title="M-32_AD_Pro_II_3_0_6.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip" target="_blank">M-32_AD_Pro_II_3_0_6.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_tb_win.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_tb_win.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_tb_win.zip"/>
-        <updated>2025-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>02/27/2025</strong>
-                Windows Fireface UFX+ Thunderbolt Flash Update Tool                                    <a title="fut_tb_win.zip" href="https://rme-audio.de/downloads/fut_tb_win.zip" target="_blank">fut_tb_win.zip</a>]]></content>
+        <title type="html"><![CDATA[M-32_AD_Pro_II-D_1_3_1.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip</id>
+        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>03/31/2025</strong>
+                Firmware update for M-32 AD Pro II-D                                    <a title="M-32_AD_Pro_II-D_1_3_1.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip" target="_blank">M-32_AD_Pro_II-D_1_3_1.zip</a>]]></content>
     </entry>
 </feed>
