@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-04-02T05:42:35.794Z</updated>
+    <updated>2025-04-02T17:39:53.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[M-32_AD_Pro_II_3_0_7.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip</id>
+        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>04/02/2025</strong>
+                Firmware update for M-32 AD Pro II                                    <a title="M-32_AD_Pro_II_3_0_7.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip" target="_blank">M-32_AD_Pro_II_3_0_7.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M-32_DA_Pro_II_3_0_7.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip</id>
+        <link href="https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>04/02/2025</strong>
+                Firmware update for M-32 DA Pro II                                    <a title="M-32_DA_Pro_II_3_0_7.zip" href="https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip" target="_blank">M-32_DA_Pro_II_3_0_7.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M-1620_Pro_3_0_7.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip</id>
+        <link href="https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>04/02/2025</strong>
+                M-1620 Pro Firmware Update                                    <a title="M-1620_Pro_3_0_7.zip" href="https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip" target="_blank">M-1620_Pro_3_0_7.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12Mic_2_0_1.zip]]></title>
         <id>https://rme-audio.de/downloads/12Mic_2_0_1.zip</id>
@@ -28,29 +52,5 @@
         <updated>2025-03-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>03/31/2025</strong>
                 AVB Tool Firmware Update                                    <a title="AVB_Tool_2_0_1.zip" href="https://rme-audio.de/downloads/AVB_Tool_2_0_1.zip" target="_blank">AVB_Tool_2_0_1.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M-32_AD_Pro_3_0_6.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip</id>
-        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/31/2025</strong>
-                Firmware update for M-32 AD Pro                                    <a title="M-32_AD_Pro_3_0_6.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_3_0_6.zip" target="_blank">M-32_AD_Pro_3_0_6.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M-32_AD_Pro_II_3_0_6.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip</id>
-        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/31/2025</strong>
-                Firmware update for M-32 AD Pro II                                    <a title="M-32_AD_Pro_II_3_0_6.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_6.zip" target="_blank">M-32_AD_Pro_II_3_0_6.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M-32_AD_Pro_II-D_1_3_1.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip</id>
-        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/31/2025</strong>
-                Firmware update for M-32 AD Pro II-D                                    <a title="M-32_AD_Pro_II-D_1_3_1.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II-D_1_3_1.zip" target="_blank">M-32_AD_Pro_II-D_1_3_1.zip</a>]]></content>
     </entry>
 </feed>
