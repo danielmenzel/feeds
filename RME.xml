@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-04-15T05:41:41.543Z</updated>
+    <updated>2025-04-17T05:47:19.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -12,6 +12,14 @@
         <updated>2025-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>04/12/2025</strong>
                 RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fut_df_avb_mac_268.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_df_avb_mac_268.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_268.zip"/>
+        <updated>2025-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>04/05/2025</strong>
+                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_268.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_268.zip" target="_blank">fut_df_avb_mac_268.zip</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M-32_AD_Pro_II_3_0_7.zip]]></title>
@@ -44,13 +52,5 @@
         <updated>2025-03-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>03/31/2025</strong>
                 12Mic Firmware Update 2.x                                    <a title="12Mic_2_0_1.zip" href="https://rme-audio.de/downloads/12Mic_2_0_1.zip" target="_blank">12Mic_2_0_1.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12Mic-D_1_3_0.zip]]></title>
-        <id>https://rme-audio.de/downloads/12Mic-D_1_3_0.zip</id>
-        <link href="https://rme-audio.de/downloads/12Mic-D_1_3_0.zip"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>03/31/2025</strong>
-                12Mic-D Firmware Update                                    <a title="12Mic-D_1_3_0.zip" href="https://rme-audio.de/downloads/12Mic-D_1_3_0.zip" target="_blank">12Mic-D_1_3_0.zip</a>]]></content>
     </entry>
 </feed>
