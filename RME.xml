@@ -2,55 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-05-05T05:43:03.306Z</updated>
+    <updated>2025-05-05T17:40:15.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[driver_madinet_win_10_09891.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_madinet_win_10_09891.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_madinet_win_10_09891.zip"/>
-        <updated>2025-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/28/2025</strong>
-                Windows USB combo-driver installer for Digiface AVB and Digiface Dante                                    <a title="driver_madinet_win_10_09891.zip" href="https://rme-audio.de/downloads/driver_madinet_win_10_09891.zip" target="_blank">driver_madinet_win_10_09891.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_win_arm64_199.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win_arm64_199.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win_arm64_199.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                TotalMix FX Arm64 latest version (single file download)                                    <a title="tmfx_win_arm64_199.zip" href="https://rme-audio.de/downloads/tmfx_win_arm64_199.zip" target="_blank">tmfx_win_arm64_199.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rme_avb_package_mac.zip]]></title>
-        <id>https://rme-audio.de/downloads/rme_avb_package_mac.zip</id>
-        <link href="https://rme-audio.de/downloads/rme_avb_package_mac.zip"/>
-        <updated>2025-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/12/2025</strong>
-                RME AVB Package for Digiface AVB, macOS Sierra and up                                    <a title="rme_avb_package_mac.zip" href="https://rme-audio.de/downloads/rme_avb_package_mac.zip" target="_blank">rme_avb_package_mac.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_mac_199.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_mac_199.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_mac_199.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_199.zip" href="https://rme-audio.de/downloads/tmfx_mac_199.zip" target="_blank">tmfx_mac_199.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fut_df_avb_mac_268.zip]]></title>
-        <id>https://rme-audio.de/downloads/fut_df_avb_mac_268.zip</id>
-        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_268.zip"/>
-        <updated>2025-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/05/2025</strong>
-                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_268.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_268.zip" target="_blank">fut_df_avb_mac_268.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_win32_199.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_win32_199.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_win32_199.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                TotalMix FX Windows 32 bit latest version (single file download)                                    <a title="tmfx_win32_199.zip" href="https://rme-audio.de/downloads/tmfx_win32_199.zip" target="_blank">tmfx_win32_199.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M-32_AD_Pro_II_3_0_7.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip</id>
-        <link href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip"/>
-        <updated>2025-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/02/2025</strong>
-                Firmware update for M-32 AD Pro II                                    <a title="M-32_AD_Pro_II_3_0_7.zip" href="https://rme-audio.de/downloads/M-32_AD_Pro_II_3_0_7.zip" target="_blank">M-32_AD_Pro_II_3_0_7.zip</a>]]></content>
+        <title type="html"><![CDATA[tmfx_winx64_199.zip]]></title>
+        <id>https://rme-audio.de/downloads/tmfx_winx64_199.zip</id>
+        <link href="https://rme-audio.de/downloads/tmfx_winx64_199.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                TotalMix FX Windows 64 bit, latest version (single file download)                                    <a title="tmfx_winx64_199.zip" href="https://rme-audio.de/downloads/tmfx_winx64_199.zip" target="_blank">tmfx_winx64_199.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M-32_DA_Pro_II_3_0_7.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip</id>
-        <link href="https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip"/>
-        <updated>2025-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/02/2025</strong>
-                Firmware update for M-32 DA Pro II                                    <a title="M-32_DA_Pro_II_3_0_7.zip" href="https://rme-audio.de/downloads/M-32_DA_Pro_II_3_0_7.zip" target="_blank">M-32_DA_Pro_II_3_0_7.zip</a>]]></content>
+        <title type="html"><![CDATA[driver_usb_win_1271.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_win_1271.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_win_1271.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1271.zip" href="https://rme-audio.de/downloads/driver_usb_win_1271.zip" target="_blank">driver_usb_win_1271.zip</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M-1620_Pro_3_0_7.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip</id>
-        <link href="https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip"/>
-        <updated>2025-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>04/02/2025</strong>
-                M-1620 Pro Firmware Update                                    <a title="M-1620_Pro_3_0_7.zip" href="https://rme-audio.de/downloads/M-1620_Pro_3_0_7.zip" target="_blank">M-1620_Pro_3_0_7.zip</a>]]></content>
+        <title type="html"><![CDATA[driver_madiface_win_102.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/driver_madiface_win_102.zip</id>
+        <link href="https://www.rme-audio.de/downloads/driver_madiface_win_102.zip"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/05/2025</strong>
+                x64 / Arm 64 bit driver for Windows 10 and up, MADIface USB series                                    <a title="driver_madiface_win_102.zip" href="https://www.rme-audio.de/downloads/driver_madiface_win_102.zip" target="_blank">driver_madiface_win_102.zip</a>]]></content>
     </entry>
 </feed>
