@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-05-16T05:42:54.027Z</updated>
+    <updated>2025-05-16T17:40:22.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[rav2_hw_0_36_sw_1_20.zip]]></title>
+        <id>https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip</id>
+        <link href="https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip"/>
+        <updated>2025-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/16/2025</strong>
+                Digiface Ravenna - RAV2 module firmware update                                    <a title="rav2_hw_0_36_sw_1_20.zip" href="https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip" target="_blank">rav2_hw_0_36_sw_1_20.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tmfx_win_arm64_199.zip]]></title>
         <id>https://rme-audio.de/downloads/tmfx_win_arm64_199.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-05-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/05/2025</strong>
                 x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1271.zip" href="https://rme-audio.de/downloads/driver_usb_win_1271.zip" target="_blank">driver_usb_win_1271.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_madiface_win_102.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/driver_madiface_win_102.zip</id>
-        <link href="https://www.rme-audio.de/downloads/driver_madiface_win_102.zip"/>
-        <updated>2025-05-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/05/2025</strong>
-                x64 / Arm 64 bit driver for Windows 10 and up, MADIface USB series                                    <a title="driver_madiface_win_102.zip" href="https://www.rme-audio.de/downloads/driver_madiface_win_102.zip" target="_blank">driver_madiface_win_102.zip</a>]]></content>
     </entry>
 </feed>
