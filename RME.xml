@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-05-21T05:43:01.875Z</updated>
+    <updated>2025-05-21T17:40:59.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_mac_335.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_mac_335.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_mac_335.zip"/>
+        <updated>2025-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/21/2025</strong>
+                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_335.zip" href="https://rme-audio.de/downloads/driver_usb_mac_335.zip" target="_blank">driver_usb_mac_335.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_426.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_426.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip"/>
+        <updated>2025-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/21/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_426.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip" target="_blank">driver_usbdk_mac_426.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HDSPeAoXD_FULL_WIN_250519.zip]]></title>
         <id>https://rme-audio.de/downloads/HDSPeAoXD_FULL_WIN_250519.zip</id>
@@ -36,21 +52,5 @@
         <updated>2025-05-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/05/2025</strong>
                 TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_199.zip" href="https://rme-audio.de/downloads/tmfx_mac_199.zip" target="_blank">tmfx_mac_199.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win32_199.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win32_199.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win32_199.zip"/>
-        <updated>2025-05-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/05/2025</strong>
-                TotalMix FX Windows 32 bit latest version (single file download)                                    <a title="tmfx_win32_199.zip" href="https://rme-audio.de/downloads/tmfx_win32_199.zip" target="_blank">tmfx_win32_199.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_winx64_199.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_winx64_199.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_winx64_199.zip"/>
-        <updated>2025-05-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/05/2025</strong>
-                TotalMix FX Windows 64 bit, latest version (single file download)                                    <a title="tmfx_winx64_199.zip" href="https://rme-audio.de/downloads/tmfx_winx64_199.zip" target="_blank">tmfx_winx64_199.zip</a>]]></content>
     </entry>
 </feed>
