@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-05-26T17:40:36.450Z</updated>
+    <updated>2025-05-27T05:44:14.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[digicheck_ng_mac_093.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip</id>
+        <link href="https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip"/>
+        <updated>2025-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/26/2025</strong>
+                DigiCheck NG macOS                                    <a title="digicheck_ng_mac_093.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip" target="_blank">digicheck_ng_mac_093.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[digicheck_ng_win_093.zip]]></title>
+        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip</id>
+        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip"/>
+        <updated>2025-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/26/2025</strong>
+                DigiCheck NG Windows                                    <a title="digicheck_ng_win_093.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip" target="_blank">digicheck_ng_win_093.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usb_mac_335.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usb_mac_335.zip</id>
@@ -36,21 +52,5 @@
         <updated>2025-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/16/2025</strong>
                 Digiface Ravenna - RAV2 module firmware update                                    <a title="rav2_hw_0_36_sw_1_20.zip" href="https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip" target="_blank">rav2_hw_0_36_sw_1_20.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_win_arm64_199.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_win_arm64_199.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_win_arm64_199.zip"/>
-        <updated>2025-05-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/05/2025</strong>
-                TotalMix FX Arm64 latest version (single file download)                                    <a title="tmfx_win_arm64_199.zip" href="https://rme-audio.de/downloads/tmfx_win_arm64_199.zip" target="_blank">tmfx_win_arm64_199.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmfx_mac_199.zip]]></title>
-        <id>https://rme-audio.de/downloads/tmfx_mac_199.zip</id>
-        <link href="https://rme-audio.de/downloads/tmfx_mac_199.zip"/>
-        <updated>2025-05-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/05/2025</strong>
-                TotalMix FX Mac latest version (single file download)                                    <a title="tmfx_mac_199.zip" href="https://rme-audio.de/downloads/tmfx_mac_199.zip" target="_blank">tmfx_mac_199.zip</a>]]></content>
     </entry>
 </feed>
