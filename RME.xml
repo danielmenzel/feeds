@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-05-30T05:44:14.407Z</updated>
+    <updated>2025-05-30T17:40:58.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[M-1620_Pro_D_1_3_2.zip]]></title>
+        <id>https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip</id>
+        <link href="https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip"/>
+        <updated>2025-05-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/28/2025</strong>
+                M-1620 Pro D Firmware Update                                    <a title="M-1620_Pro_D_1_3_2.zip" href="https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip" target="_blank">M-1620_Pro_D_1_3_2.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[digicheck_ng_mac_093.zip]]></title>
         <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/19/2025</strong>
                 Windows HDSPe AoX Driver &amp; Firmware Package                                    <a title="HDSPeAoXD_FULL_WIN_250519.zip" href="https://rme-audio.de/downloads/HDSPeAoXD_FULL_WIN_250519.zip" target="_blank">HDSPeAoXD_FULL_WIN_250519.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rav2_hw_0_36_sw_1_20.zip]]></title>
-        <id>https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip</id>
-        <link href="https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip"/>
-        <updated>2025-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/16/2025</strong>
-                Digiface Ravenna - RAV2 module firmware update                                    <a title="rav2_hw_0_36_sw_1_20.zip" href="https://rme-audio.de/downloads/rav2_hw_0_36_sw_1_20.zip" target="_blank">rav2_hw_0_36_sw_1_20.zip</a>]]></content>
     </entry>
 </feed>
