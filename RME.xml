@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-03T05:43:49.586Z</updated>
+    <updated>2025-06-03T17:43:29.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
     <entry>
@@ -30,6 +30,14 @@
                 DigiCheck NG Windows                                    <a title="digicheck_ng_win_093.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip" target="_blank">digicheck_ng_win_093.zip</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2025-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>05/24/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[driver_usbdk_mac_426.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usbdk_mac_426.zip</id>
         <link href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip"/>
@@ -44,13 +52,5 @@
         <updated>2025-05-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/20/2025</strong>
                 macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_335.zip" href="https://rme-audio.de/downloads/driver_usb_mac_335.zip" target="_blank">driver_usb_mac_335.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HDSPeAoXD_FULL_WIN_250519.zip]]></title>
-        <id>https://rme-audio.de/downloads/HDSPeAoXD_FULL_WIN_250519.zip</id>
-        <link href="https://rme-audio.de/downloads/HDSPeAoXD_FULL_WIN_250519.zip"/>
-        <updated>2025-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/19/2025</strong>
-                Windows HDSPe AoX Driver &amp; Firmware Package                                    <a title="HDSPeAoXD_FULL_WIN_250519.zip" href="https://rme-audio.de/downloads/HDSPeAoXD_FULL_WIN_250519.zip" target="_blank">HDSPeAoXD_FULL_WIN_250519.zip</a>]]></content>
     </entry>
 </feed>
