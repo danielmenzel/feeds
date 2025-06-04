@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-04T05:43:35.280Z</updated>
+    <updated>2025-06-04T17:42:13.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_usb_win_1271.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usb_win_1271.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usb_win_1271.zip"/>
+        <updated>2025-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/02/2025</strong>
+                x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1271.zip" href="https://rme-audio.de/downloads/driver_usb_win_1271.zip" target="_blank">driver_usb_win_1271.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M-1620_Pro_D_1_3_2.zip]]></title>
         <id>https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-05-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/21/2025</strong>
                 macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_426.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip" target="_blank">driver_usbdk_mac_426.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usb_mac_335.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_mac_335.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_mac_335.zip"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/20/2025</strong>
-                macOS 11 and up USB Series Kernel Extension Driver                                    <a title="driver_usb_mac_335.zip" href="https://rme-audio.de/downloads/driver_usb_mac_335.zip" target="_blank">driver_usb_mac_335.zip</a>]]></content>
     </entry>
 </feed>
