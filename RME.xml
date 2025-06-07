@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-06T17:42:10.702Z</updated>
+    <updated>2025-06-07T05:41:27.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_win.zip"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/06/2025</strong>
+                Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[driver_usb_win_1271.zip]]></title>
         <id>https://rme-audio.de/downloads/driver_usb_win_1271.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/24/2025</strong>
                 macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usbdk_mac_426.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usbdk_mac_426.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/21/2025</strong>
-                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_426.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_426.zip" target="_blank">driver_usbdk_mac_426.zip</a>]]></content>
     </entry>
 </feed>
