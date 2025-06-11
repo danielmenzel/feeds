@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-11T05:44:42.376Z</updated>
+    <updated>2025-06-11T17:43:30.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_madiface_mac.zip"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/10/2025</strong>
+                Mac OS Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB/AES/Dante/Ravenna, UFX II/III, USB.IO                                    <a title="fut_madiface_mac.zip" href="https://rme-audio.de/downloads/fut_madiface_mac.zip" target="_blank">fut_madiface_mac.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driver_usbdk_mac_427.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_usbdk_mac_427.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_usbdk_mac_427.zip"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/10/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver                                    <a title="driver_usbdk_mac_427.zip" href="https://rme-audio.de/downloads/driver_usbdk_mac_427.zip" target="_blank">driver_usbdk_mac_427.zip</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[driverkit-info.html]]></title>
+        <id>https://rme-audio.de/driverkit-info.html</id>
+        <link href="https://rme-audio.de/driverkit-info.html"/>
+        <updated>2025-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/10/2025</strong>
+                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_win.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_win.zip</id>
@@ -28,29 +52,5 @@
         <updated>2025-05-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>05/28/2025</strong>
                 M-1620 Pro D Firmware Update                                    <a title="M-1620_Pro_D_1_3_2.zip" href="https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip" target="_blank">M-1620_Pro_D_1_3_2.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digicheck_ng_mac_093.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip"/>
-        <updated>2025-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/26/2025</strong>
-                DigiCheck NG macOS                                    <a title="digicheck_ng_mac_093.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_mac_093.zip" target="_blank">digicheck_ng_mac_093.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digicheck_ng_win_093.zip]]></title>
-        <id>https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip</id>
-        <link href="https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip"/>
-        <updated>2025-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/26/2025</strong>
-                DigiCheck NG Windows                                    <a title="digicheck_ng_win_093.zip" href="https://www.rme-audio.de/downloads/digicheck_ng_win_093.zip" target="_blank">digicheck_ng_win_093.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driverkit-info.html]]></title>
-        <id>https://rme-audio.de/driverkit-info.html</id>
-        <link href="https://rme-audio.de/driverkit-info.html"/>
-        <updated>2025-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/24/2025</strong>
-                macOS 11 or up USB Series DriverKit Driver+Fut                                    <a title="driverkit-info.html" href="https://rme-audio.de/driverkit-info.html" target="_blank">driverkit-info.html</a>]]></content>
     </entry>
 </feed>
