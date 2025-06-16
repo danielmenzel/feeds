@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-16T05:45:40.714Z</updated>
+    <updated>2025-06-16T17:42:23.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[fut_df_avb_mac_269.zip]]></title>
+        <id>https://rme-audio.de/downloads/fut_df_avb_mac_269.zip</id>
+        <link href="https://rme-audio.de/downloads/fut_df_avb_mac_269.zip"/>
+        <updated>2025-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/12/2025</strong>
+                Mac Firmware Update for Digiface AVB                                    <a title="fut_df_avb_mac_269.zip" href="https://rme-audio.de/downloads/fut_df_avb_mac_269.zip" target="_blank">fut_df_avb_mac_269.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_madiface_mac.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_madiface_mac.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>06/02/2025</strong>
                 x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1271.zip" href="https://rme-audio.de/downloads/driver_usb_win_1271.zip" target="_blank">driver_usb_win_1271.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M-1620_Pro_D_1_3_2.zip]]></title>
-        <id>https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip</id>
-        <link href="https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip"/>
-        <updated>2025-05-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>05/28/2025</strong>
-                M-1620 Pro D Firmware Update                                    <a title="M-1620_Pro_D_1_3_2.zip" href="https://rme-audio.de/downloads/M-1620_Pro_D_1_3_2.zip" target="_blank">M-1620_Pro_D_1_3_2.zip</a>]]></content>
     </entry>
 </feed>
