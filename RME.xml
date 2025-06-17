@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rme-audio.de/home.html</id>
     <title>RME Treiber</title>
-    <updated>2025-06-17T05:44:10.135Z</updated>
+    <updated>2025-06-17T17:43:02.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rme-audio.de/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[driver_win_net_09891_09891100.zip]]></title>
+        <id>https://rme-audio.de/downloads/driver_win_net_09891_09891100.zip</id>
+        <link href="https://rme-audio.de/downloads/driver_win_net_09891_09891100.zip"/>
+        <updated>2025-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<strong>06/17/2025</strong>
+                Windows Network Driver for Digiface AVB /Dante and AVB Controller                                    <a title="driver_win_net_09891_09891100.zip" href="https://rme-audio.de/downloads/driver_win_net_09891_09891100.zip" target="_blank">driver_win_net_09891_09891100.zip</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fut_df_avb_mac_269.zip]]></title>
         <id>https://rme-audio.de/downloads/fut_df_avb_mac_269.zip</id>
@@ -44,13 +52,5 @@
         <updated>2025-06-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<strong>06/06/2025</strong>
                 Windows Flash Update Tool for MADIface XT/USB/Pro, OctaMic XTC, ADI-2 Pro Series &amp; DAC, Digiface USB, UFX II/III, UFX+, Digiface Dante, Digiface AVB, USB.IO                                    <a title="fut_madiface_win.zip" href="https://rme-audio.de/downloads/fut_madiface_win.zip" target="_blank">fut_madiface_win.zip</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[driver_usb_win_1271.zip]]></title>
-        <id>https://rme-audio.de/downloads/driver_usb_win_1271.zip</id>
-        <link href="https://rme-audio.de/downloads/driver_usb_win_1271.zip"/>
-        <updated>2025-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<strong>06/02/2025</strong>
-                x64 / Arm 64 bit driver for Windows 10 and up, Fireface USB series                                    <a title="driver_usb_win_1271.zip" href="https://rme-audio.de/downloads/driver_usb_win_1271.zip" target="_blank">driver_usb_win_1271.zip</a>]]></content>
     </entry>
 </feed>
